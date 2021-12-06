@@ -1,0 +1,38 @@
+body{
+    font-family:'Merriweather',serif;
+    margin:0px
+}
+textarea{
+    width:50%;
+    height:20vh;
+    padding:1rem;
+    margin:1rem;
+    display:block; 
+}
+#output{
+    border: 1px solid black;
+    height:8vh;
+    width:50% ;
+    margin: 1rem;
+    padding:1rem ;
+}
+#first{
+    background-color:#FFD348;
+    padding: 0.1rem 2rem;
+
+}
+#btn-translate{
+    background-color:#FFD348 ;
+    padding: 1rem 2rem;
+    font-size: larger;
+    border-radius: 7px;
+  
+}
+#btn-translate:hover{
+    background-color:red;
+}
+.sec{
+    background-color:#FFD348;
+    padding: 0.1rem 30rem;
+}
+
